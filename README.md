@@ -1,2 +1,2 @@
 # terraform
-A repository for [Terraform](https://www.terraform.io/) learning
+A repository for [Terraform](https://www.terraform.io) learning
